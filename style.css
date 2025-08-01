@@ -38,3 +38,11 @@ h1, h2 {
   text-decoration: none;
   border-radius: 6px;
 }
+
+footer {
+  font-family: sans-serif;
+  background: #f5f8fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
